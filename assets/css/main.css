@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #cfcfcf;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -124,7 +124,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #3e3e3e;
+		color: #ffffff;
 	}
 
 	i, em {
@@ -150,7 +150,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #ffffff;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -193,7 +193,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px #444;
+		border-top: solid 1px #444444;
 		border-top-color: rgba(0, 0, 0, 0.35);
 		box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
 		height: 1px;
@@ -1584,7 +1584,7 @@ input, select, textarea {
 		}
 
 			table.default tr {
-				border-top: solid 1px #eee;
+				border-top: solid 1px #eeeeee;
 			}
 
 				table.default tr:first-child {
@@ -1604,7 +1604,7 @@ input, select, textarea {
 
 			table.default thead {
 				background: #4f4f4f;
-				color: #fff;
+				color: #ffffff;
 			}
 
 /* Section/Article */
@@ -1698,7 +1698,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			background-color: #43bff0;
-			color: #fff !important;
+			color: #ffffff !important;
 		}
 
 		input[type="button"]:active,
@@ -1911,7 +1911,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: #272726;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -1995,12 +1995,12 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: #6b6a6a;
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
-			text-shadow: 1px 1px 0px #fff;
+			background-color: #8a8a8a;
+			text-shadow: 1px 1px 0px #000000;
 		}
 
 		.wrapper.style3 {
@@ -2015,7 +2015,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: #ffffff;
 			}
 
 			.wrapper.style4 form input[type=text],
