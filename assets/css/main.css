@@ -1938,7 +1938,7 @@ input, select, textarea {
 		}
 
 		.smaller-article {
-			max-width: 800px; /* Adjust the width as needed */
+			max-width: 1200px; /* Adjust the width as needed */
 			margin: 0 auto; /* Centers the article horizontally */
 		}
 		
