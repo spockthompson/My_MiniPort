@@ -1937,6 +1937,12 @@ input, select, textarea {
 			width: auto;
 		}
 
+		.smaller-article {
+			max-width: 500x; /* Adjust the width as needed */
+			margin: 0 auto;
+		}
+		
+
 /* Icons */
 
 	.icon {
